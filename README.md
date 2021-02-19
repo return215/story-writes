@@ -1,5 +1,5 @@
 ---
-modified: 2021-02-19T20:59:40+08:00
+modified: 2021-02-19T21:03:02+08:00
 ---
 
 # Story Writes
@@ -16,15 +16,15 @@ A boy with interest in electronic music and a peculiar, stretching hand. Idea em
 
 TODO:
 
-[] Import from personal archives
-[] idk
+[ ] Import from personal archives
+[ ] idk
 
 ### Neo
   
 A computer science student sent to the Puyo Pop Fever (2) realm to study the basics of Puyo Puyo and create his custom implementation of Fever mode.
 
-[] Import from personal archives
-[] Create overall outline
+[ ] Import from personal archives
+[ ] Create overall outline
 
 ### Quill
 
