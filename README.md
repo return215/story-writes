@@ -1,5 +1,5 @@
 ---
-modified: 2021-02-19T21:05:11+08:00
+modified: 2021-02-26T18:42:50+08:00
 ---
 
 # Story Writes
@@ -13,6 +13,10 @@ Here is a list of my planned projects:
 ### Taffy
   
 A boy with interest in electronic music and a peculiar, stretching hand. Idea emerged in 2016.
+
+He is not born with strong physical properties. His weird interest in art often leads him in trouble.
+
+He runs basically everywhere, to any place where no one will ever bother him.
 
 TODO:
 
