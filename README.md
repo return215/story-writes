@@ -16,14 +16,14 @@ A boy with interest in electronic music and a peculiar, stretching hand. Idea em
 
 TODO:
 
-- [ ] Import from personal archives
+- [x] Import from personal archives
 - [ ] idk
 
 ### Neo
   
 A computer science student sent to the Puyo Pop Fever (2) realm to study the basics of Puyo Puyo and create his custom implementation of Fever mode.
 
-- [ ] Import from personal archives
+- [x] Import from personal archives
 - [ ] Create overall outline
 
 ### Quill
@@ -35,3 +35,4 @@ Yet another computer science student who came from the dark side that cost him h
 A "limited vision" photographer who appreciates every little detail of life.
 
 This project will be of type "poem".
+
