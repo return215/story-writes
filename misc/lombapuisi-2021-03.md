@@ -1,3 +1,7 @@
+---
+modified: 2021-03-07T17:59:00+08:00
+---
+
 # Cahaya yang Hilang
 
 _Tema: Kehidupan_
@@ -7,7 +11,7 @@ Angka yang masih jauh dari sepuh
 Selama itulah mentari telah berlalu jauh  
 Selama itulah hidup telah ditempuh  
 
-Pencapaian yang telah saya raih  
+Pencapaian yang telah kuraih  
 Anugerah yang telah Tuhan kasih  
 Nama baik dianjung penuh riuh  
 Hidup di bawah sinar yang menyeluruh  
@@ -22,8 +26,10 @@ Tak mampu menatap langit legam
 Dunia terasa menjadi begitu kejam  
 Wawasan asing tajam begitu menghujam  
 
-Hingga akhirnya saya temukan cahaya  
-
+Hingga akhirnya aku temukan cahaya  
+Cahaya yang dulu mengiringi hidup yang lama  
+Cahaya yang selama ini kuanggap sia-sia  
+Cahaya yang tertinggal dalam debu kenangan  
 
 ### Biodata
 
