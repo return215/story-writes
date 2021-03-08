@@ -1,10 +1,11 @@
 ---
-modified: 2021-03-07T17:59:00+08:00
+modified: 2021-03-08T11:03:30+08:00
 ---
 
 # Cahaya yang Hilang
 
-_Tema: Kehidupan_
+_Tema: Kehidupan_  
+_Kata kunci: dua puluh, cahaya, hilang, kegelapan, syukur_
 
 Dua puluh  
 Angka yang masih jauh dari sepuh  
@@ -29,7 +30,22 @@ Wawasan asing tajam begitu menghujam
 Hingga akhirnya aku temukan cahaya  
 Cahaya yang dulu mengiringi hidup yang lama  
 Cahaya yang selama ini kuanggap sia-sia  
-Cahaya yang tertinggal dalam debu kenangan  
+Cahaya yang tertinggal dalam debu nostalgia  
+
+Wahai Tuhan Yang Maha Bercahaya  
+Engkaulah lentera alam semesta  
+Tiada mampu hamba melihat tanda  
+Tanpa sinar penunjuk jalan lurus berada  
+
+Wahai Tuhan Yang Maha Memaafkan  
+Gelapnya hati telah membuatku lalai  
+Hamba memohon pada Engkau kemaafan  
+Atas segala tanggung jawab yang terbengkalai  
+
+Dengan ini kuucapkan sepenuh jiwa  
+Rasa syukur terhadap segala pemberian  
+Pada Tuhan Yang Memberi Karunia  
+Penunjuk kepada jalan kebenaran  
 
 ### Biodata
 
@@ -39,19 +55,19 @@ Cahaya yang tertinggal dalam debu kenangan
 - Kota: Banjarmasin
 - Provinsi: Kalimantan Selatan
 - Profile links:
-  - Twitter: https://twitter.com/215return
-  - Instagram: https://instagram.com/return215__
-  - GitHub: https://github.com/return215
-  - YouTube: https://www.youtube.com/channel/UCpx6Tikp2iFNal6wlFbBs3Q
-  - LinkedIn: https://www.linkedin.com/in/muhammad-hidayat-0a4994196/
+  - Twitter: [`@215Return`](https://twitter.com/215return)
+  - Instagram: [`@return215__`](https://instagram.com/return215__) (berakhir dengan 2 garis bawah/_underscore_)
+  - GitHub: [`@return215`](https://github.com/return215)
+  - YouTube: [Muhammad Hidayat](https://www.youtube.com/channel/UCpx6Tikp2iFNal6wlFbBs3Q)
+  - LinkedIn: [Muhammad Hidayat](https://www.linkedin.com/in/muhammad-hidayat-0a4994196/)
 
-### Catatan penulis
+### Catatan penulis (tidak perlu dicantumkan dalam buku)
 
-Barangkali ini puisi pertama saya yang pernah dipublikasikan secara nasional. Saya sangat berterima kasih atas kesempatan ini. Selama ini saya tidak begitu berminat untuk mempublikasikan karena takut. Sekarang saya memberanikan diri untuk tampil, dikenang oleh khayalak banyak.
+Barangkali ini puisi pertama saya yang pernah dipublikasikan secara nasional. Saya sangat berterima kasih atas kesempatan ini. Selama ini saya tidak begitu berminat untuk mempublikasikan karena takut. Sekarang saya memberanikan diri untuk tampil, meskipun tidak dikenang oleh khayalak banyak.
 
 Semoga ini menjadi langkah awal saya dalam menjadi penulis. Saya mempunyai banyak sekali ide, namun saya berharap dapat menuangkannya dalam media yang terorganisasi. Karya saya akan ditulis dalam bahasa Indonesia dan Inggris dalam [arsip ini](https://github.com/return215/story-writes).
 
-### draft
+### draft (tidak perlu dicantumkan dalam buku)
 
 ```
 draft
