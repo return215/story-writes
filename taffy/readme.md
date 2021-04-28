@@ -2,19 +2,20 @@
 
 Also in: [Indonesian](readme.id.md)
 
-Taffy is a web novel/music album project originally intiaied by @HDX13-BeatCode
-that features the story of a boy with musical talent, glowing hand, and
-self-control issues. This project was hosted in 
+Taffy is a web novel/music album project originally intiaied by
+@HDX13-BeatCode that features the story of a boy with musical talent,
+glowing hand, and self-control issues. This project was hosted in 
 [this repo](https://github.com/hdx13-beatcode/taffy)
 
-The project is now under reconstruction by @return215,
-where the stories and the soundtracks will be made from the ground-up while
-retaining the concept made by the original author. 
+The project is now under reconstruction by @return215, where the stories
+and the soundtracks will be made from the ground-up while retaining the
+concept made by the original author. 
 
-For the story, it is currently written in two languages: English and Indonesia. 
-The author was from Indonesia, so the Indonesian version was included. Please
-note that the English version may be way ahead from the Indonesian,
-so translators are welcome to contribute.
+For the story, it is currently written in two languages: English and
+Indonesia.  The author was from Indonesia, so the Indonesian version was
+included. Please note that the English version may be way ahead from the
+Indonesian or the other way around, so translators are welcome to
+contribute.
 
 ## Synopsis
 
