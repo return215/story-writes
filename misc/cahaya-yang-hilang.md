@@ -1,5 +1,5 @@
 ---
-modified: 2021-03-08T11:03:30+08:00
+modified: 2021-06-11T18:00:00+08:00
 ---
 
 # Cahaya yang Hilang
@@ -66,6 +66,8 @@ Penunjuk kepada jalan kebenaran
 Barangkali ini puisi pertama saya yang pernah dipublikasikan secara nasional. Saya sangat berterima kasih atas kesempatan ini. Selama ini saya tidak begitu berminat untuk mempublikasikan karena takut. Sekarang saya memberanikan diri untuk tampil, meskipun tidak dikenang oleh khayalak banyak.
 
 Semoga ini menjadi langkah awal saya dalam menjadi penulis. Saya mempunyai banyak sekali ide, namun saya berharap dapat menuangkannya dalam media yang terorganisasi. Karya saya akan ditulis dalam bahasa Indonesia dan Inggris dalam [arsip ini](https://github.com/return215/story-writes).
+
+UPDATE: Karya ini telah terbit dalam buku antologi puisi "Puspa Ragam Puisi" (ISBN: 978-623-6256-04-6), diterbitkan oleh Semesta Aksara, Daerah Istimewa Yogyakarta.
 
 ### draft (tidak perlu dicantumkan dalam buku)
 
