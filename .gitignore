@@ -2,3 +2,8 @@
 *.doc
 *.docx
 
+.obsidian/workspace
+.obsidian/appearance.json
+.obsidian/themes
+
+

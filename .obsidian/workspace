@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -47,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "17eaf7f11f2e1f73",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,6 +86,36 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "2574ae8fb21fd166",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8880b1de428408dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9a0e6744040983e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
             }
           }
         ]
